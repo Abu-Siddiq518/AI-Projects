@@ -1,4 +1,4 @@
-pyth# Local CLI Chatbot
+python Local CLI Chatbot
 
 This project implements a simple command-line chatbot in Python using a small Hugging Face text generation model. It maintains conversation history with a sliding window to provide contextually relevant responses.
 
@@ -52,3 +52,8 @@ Exiting chatbot.
 *   `chat_memory.py`: Implements the sliding window memory buffer for conversation history.
 *   `interface.py`: Provides the command-line interface and integrates the other components.
 *   `README.md`: This file, providing project information and instructions.
+
+  ## Sample Output
+<img width="1915" height="1079" alt="Screenshot 2025-08-22 194945" src="https://github.com/user-attachments/assets/fe671bf0-6f08-4223-86ce-db6efa58b7df" />
+
+  
